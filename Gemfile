@@ -31,7 +31,7 @@ gem 'turbolinks', '~> 5'
 gem 'coffee-script-source', '1.8.0'
 
 gem 'bootstrap-sass'
-
+gem "nokogiri", ">= 1.8.5"
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
